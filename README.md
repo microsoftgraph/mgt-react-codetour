@@ -1,4 +1,4 @@
-# Microsoft Graph Toolkit
+# Microsoft Graph Toolkit React code tour
 
 This repo contains an interactive tour to help you build your first React app using [Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/get-started/overview?tabs=html&WT.mc_id=m365-32079-wmastyka) - a collection of reusable, framework-agnostic components and authentication providers for accessing and working with Microsoft Graph. The contents of this tour are based on the [Use the Microsoft Graph Toolkit with React](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react?WT.mc_id=m365-32079-wmastyka) walkthrough. The starting point of the project is a React TypeScript app scaffolded using [Create React App](https://github.com/facebook/create-react-app).
 
